@@ -12,7 +12,7 @@ Launching a campaign between the months of May and June with a low financial goa
 **Files**
 - ![PCO](https://github.com/liligould/kickstarter-analysis/blob/main/PCO.svg)
 - ![GB theater success](https://github.com/liligould/kickstarter-analysis/blob/main/GB%20theater%20success.svg)
-- ![Descriptive Statistics](https://github.com/liligould/kickstarter-analysis/blob/main/Descriptive%20Statistics%20.png)
-- ![Date Created Outcomes](https://github.com/liligould/kickstarter-analysis/blob/main/Date%20Created%20Outcomes%20.svg)
-- ![Box and Whisker Plot](https://github.com/liligould/kickstarter-analysis/blob/main/Box%20and%20Whisker%20Plot%20.svg)
+- ![Descriptive Statistics](https://github.com/liligould/kickstarter-analysis/blob/main/Descriptive%20Statistics.png)
+- ![Date Created Outcomes](https://github.com/liligould/kickstarter-analysis/blob/main/Date%20Created%20Outcomes.svg)
+- ![Box and Whisker Plot](https://github.com/liligould/kickstarter-analysis/blob/main/Box%20and%20Whisker%20Plot.svg)
 - [data-1-1-3-StarterBook.xlsx](path/to/data-1-1-3-StarterBook.xlsx)
