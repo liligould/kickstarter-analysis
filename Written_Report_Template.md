@@ -8,6 +8,7 @@ The purpose of this analysis was to determine the different outcomes of each cam
 
 ## Analysis and Challenges
 To determine a thorough analysis tables and graphs that depict "Theater Outcomes Based on Launch Date", as well as "Outcomes based on Goals" will be used.
+[Theater Outcomes Based on Launch Date](https://github.com/liligould/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) as well as [Outcomes based on Goals](https://github.com/liligould/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png) will be used.
 
 ### Analysis of Outcomes Based on Launch Date
 Based on the Theater Outcome Table provided below much of the theater outcomes success came from the months of May and June. It also shows that although those two months were successful there was more campaigns in progress from April to August. To visualize this table even further it was turned into a line chart and as expected it shows that the peak of successful campaigns was in the month of May and June. Throughout the year it is good to see that there are consistently more successful campaigns then failed or canceled ones. 
