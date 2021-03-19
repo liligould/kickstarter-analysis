@@ -10,9 +10,9 @@ Performing analysis on Kickstarter data to uncover trends relating to categories
 Launching a campaign between the months of May and June with a low financial goal could potentially allow for greater success.
 
 **Files**
-- ![PCO.png](path/to/PCO.png)
-- ![GB theater success.png](path/to/GB theater success.png)
+- ![PCO](path/to/PCO.svg)
+- ![GB theater success](path/to/GB theater success.svg)
 - ![Descriptive Statistics](path/to/Descriptive Statistics.png)
-- ![Date Created Outcomes.png](path/to/Date Created Outcomes.png)
-- ![Box and Whisker Plot.png](path/to/Box and Whisker Plot.png)
+- ![Date Created Outcomes](path/to/Date Created Outcomes.svg)
+- ![Box and Whisker Plot](path/to/Box and Whisker Plot.svg)
 - [data-1-1-3-StarterBook.xlsx](path/to/data-1-1-3-StarterBook.xlsx)
