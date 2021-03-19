@@ -10,8 +10,8 @@ Performing analysis on Kickstarter data to uncover trends relating to categories
 Launching a campaign between the months of May and June with a low financial goal could potentially allow for greater success.
 
 **Files**
-- ![PCO](path/to/PCO.svg)
-- ![GB theater success](path/to/GB theater success.svg)
+- ![PCO](https://github.com/liligould/kickstarter-analysis/blob/main/PCO.svg)
+- ![GB theater success](https://github.com/liligould/kickstarter-analysis/blob/main/GBtheatersuccess.svg)
 - ![Descriptive Statistics](path/to/Descriptive Statistics.png)
 - ![Date Created Outcomes](path/to/Date Created Outcomes.svg)
 - ![Box and Whisker Plot](path/to/Box and Whisker Plot.svg)
